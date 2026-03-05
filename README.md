@@ -29,21 +29,21 @@ git clone https://github.com/Bonamerck/To-Do-App
 
 Example (XAMPP):
 
-htdocs/todo-app
+htdocs/To-Do-App
 
 
 3. Create database
 
 Open **phpMyAdmin** and import:
 
-database/todo_app.sql
+database/todoapp.sql
 
 
 4. Start Apache and MySQL
 
 5. Open in browser
 
-http://localhost/todo-app/register.php
+http://localhost/To-Do-App
 
 ## Demo Workflow
 
