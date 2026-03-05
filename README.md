@@ -22,7 +22,7 @@ Simple project management and task tracking application built with **PHP and MyS
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/Bonamerck/To-Do-App
 
 
 2. Move the project into your web server folder
